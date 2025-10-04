@@ -6,7 +6,7 @@
 
 ## 📌 ¿De qué va esto?
 
-Este repositorio es mi versión **Java** de los retos del proyecto [mouredev/roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion) :contentReference[oaicite:0]{index=0}.  
+Este repositorio es mi versión **Java** de los retos del proyecto [mouredev/roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion).  
 Aquí resuelvo **todos los ejercicios** usando únicamente **Java**, manteniendo el espíritu del camino de aprendizaje lógico, pero en mi lenguaje preferido.
 
 ---
