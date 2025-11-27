@@ -7,7 +7,7 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 import java.util.concurrent.TimeUnit;
 
-class Asincronia implements Runnable {
+class Tarea implements Runnable {
     private String nombre;
     private int segundos;
 
